@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Rohitsuryaa-programmer
-- 👀 I’m interested in ...BIG data analytics and Data science 
 - 🌱 I’m currently learning ...Web Development and Pyhton
 - 💞️ I’m looking to collaborate on  Projects with Web development and big data
 - 📫 You can reach me on 
