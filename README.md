@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rohitsuryaa-programmer
-- 🌱 I’m currently learning ...Web Development and Pyhton
+- 🌱 I’m currently learning ...ML with Pyhton
 - 💞️ I’m looking to collaborate on  Projects with Web development and big data
 - 📫 You can reach me on 
 https://linktr.ee/rohitsuryaa21 also 
